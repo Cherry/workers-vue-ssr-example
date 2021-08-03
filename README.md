@@ -1,6 +1,8 @@
 # workers-vue-ssr-example
 Showcase Vue.js 3.2+ SSSR with Cloudflare Workers
 
+Issue discussion: https://github.com/vuejs/vue-next/issues/4243
+
 
 This repo illustrates the current functionality of `@vue/server-renderer@3.2.0-beta.7`, and the issues getting this to run in Cloudflare Workers.
 
