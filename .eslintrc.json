@@ -1,0 +1,19 @@
+{
+	"root": true,
+	"extends": [
+		"@nodecraft"
+	],
+	"parserOptions": {
+		"ecmaVersion": 2021,
+		"sourceType": "module"
+	},
+	"plugins": [
+		"json",
+		"node",
+		"unicorn"
+	],
+	"rules": {
+		"strict": "off",
+		"node/no-unsupported-features/es-syntax": "off"
+	}
+}
