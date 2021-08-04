@@ -1,0 +1,9 @@
+{
+	"parser": "vue-eslint-parser",
+	"env": {
+		"worker": true
+	},
+	"globals": {
+		"TransformStream": false
+	}
+}
